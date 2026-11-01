@@ -15,8 +15,11 @@ iOS-Style Animation: The camera flies towards the planet upon tapping it. The or
 
 How to Use:
 • ​Open the app.
+
 • ​Tap "Enable Lock Screen Tap(aktifkan tap di lockscreen)".
+
 • ​Enable Accessibility service. This permission allows the wallpaper to respond to taps on the lock screen; without it, interactive taps will not work.
+
 • ​Tap "Apply Wallpaper(pasang wallpaper)" and set it.
 
 ​Note: This application is still under development, so performance may not be fully optimized. Further updates and fixes will be rolled out.
