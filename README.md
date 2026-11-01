@@ -14,6 +14,7 @@ iOS-Style Animation: The camera flies towards the planet upon tapping it. The or
 
 
 How to Use:
+
 • ​Open the app.
 
 • ​Tap "Enable Lock Screen Tap(aktifkan tap di lockscreen)".
