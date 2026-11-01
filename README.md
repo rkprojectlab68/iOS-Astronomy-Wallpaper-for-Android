@@ -13,4 +13,13 @@ Return to Lock Screen: When the screen turns on while locked, an animation bring
 iOS-Style Animation: The camera flies towards the planet upon tapping it. The orbits, Sun, and other planets expand and rotate with a smooth roll effect reminiscent of iOS. Background stars move across 3 parallax layers, while the Sun and other planets smoothly fade out as the camera zooms in.
 
 
+How to Use:
+• ​Open the app.
+• ​Tap "Enable Lock Screen Tap(aktifkan tap di lockscreen)".
+• ​Enable Accessibility service. This permission allows the wallpaper to respond to taps on the lock screen; without it, interactive taps will not work.
+• ​Tap "Apply Wallpaper(pasang wallpaper)" and set it.
+
+​Note: This application is still under development, so performance may not be fully optimized. Further updates and fixes will be rolled out.
+
+
 
